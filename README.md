@@ -38,6 +38,38 @@ Welcome to my GitHub profile! I'm a Data Scientist with over 4.6 years of experi
   - Image generation using generative adversarial networks
 - **Link**: https://github.com/TVsony/Gen-AI-LLM-Google-Gemini-Projects-
 
+
+### 4. Multiple Language Translator & Audio Generator
+
+- **Descriptions:** In today's globalized world, communication across languages is crucial for individuals and businesses. However, language barriers often pose challenges to effective communication. To address this, the Multiple Language Translator & Audio Generator project aims to provide an intuitive and versatile solution for real-time translation across various languages and generate audio outputs from text in the target language.
+
+This project is a multi-functional tool that enables users to:
+
+Translate text from one language to another in real time.
+Convert the translated text into speech/audio, making it accessible to many users.
+
+**Approach**
+- The approach to building this project involves several stages:
+
+**Text Translation:**
+
+Use the mtranslate library to provide real-time translation services across multiple languages.
+Enable translation between various languages such as English, French, Spanish, German, and more.
+
+**Text-to-Speech Conversion:**
+
+Use the Google Text-to-Speech (gTTS) library to convert the translated text into speech in the selected language.
+Allow users to download the generated audio in MP3 format.
+
+**Web Interface:**
+
+Build a user-friendly interface using Streamlit to allow users to input text, select languages, and interact with the translation and audio generation features.
+Real-Time Interaction:
+
+Ensure that the translation and audio generation happen in real-time, providing a seamless experience for the user.
+
+**Link** https://github.com/TVsony/Multiple-Language-Translator-Audio-Generator/blob/main/README.md
+
 ## Skills
 - **Programming Languages**: Generative AI, Natural Language Processing, Deep Learning, Machine Learning,  Python 
 - **Frameworks and Libraries**: Streamlit, Flask, TensorFlow, Scikit-Learn, Pandas, NumPy
