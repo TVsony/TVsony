@@ -1,6 +1,6 @@
 # Hi, I'm Bhimrao Devidas Pawar! 👋
 
-Welcome to my GitHub profile! I'm a Data Scientist with over 4.6 years of experience in data analytics, machine learning, and predictive modelling. I have a strong passion for solving complex problems through data and technology. Here, you'll find a collection of my projects showcasing my skills and interests in data science, machine learning, and web development.
+Welcome to my GitHub profile! I'm a Data Scientist with over 3.6 years of experience in data analytics, machine learning, and predictive modelling. I have a strong passion for solving complex problems through data and technology. Here, you'll find a collection of my projects showcasing my skills and interests in data science, machine learning, and web development.
 
 ## Projects
 
